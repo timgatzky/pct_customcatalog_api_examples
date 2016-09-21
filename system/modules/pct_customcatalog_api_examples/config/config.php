@@ -1,14 +1,6 @@
 <?php
 
 /**
- * Contao Open Source CMS
- * 
- * Copyright (C) 2005-2013 Leo Feyer
- * 
- * CustomCatalog "Custom" API Example
- */
-
-/**
  * Register new API
  */
 $GLOBALS['PCT_CUSTOMCATALOG']['API']['myApi'] = array
